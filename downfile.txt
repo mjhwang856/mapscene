@@ -1,0 +1,12 @@
+max
+pureref
+unity 22.3.13
+slack
+notion
+vscode
+everything
+chrome
+bandizip
+adobe
+github
+
